@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdf6a44d-9431-46bd-b67e-3db674eb591d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/etgar/AnotherPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/etgar/GenericPersonList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/etgar/ImportantPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/etgar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/etgar/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/exercise1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/exercise1/MyLimitedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/exercise1/MyLimitedListable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/exercise2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testing/exercise/FunctionsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MuLV0cwqYibtfiB7sib2YHQrnS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/intelliJ/JavaProjects/homework singleton logger"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="FunctionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homeworkgenericscollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing.exercise" />
+      <option name="MAIN_CLASS_NAME" value="testing.exercise.FunctionsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsTest.test_check_that_fuction_getItem_is_correct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homeworkgenericscollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing.exercise" />
+      <option name="MAIN_CLASS_NAME" value="testing.exercise.FunctionsTest" />
+      <option name="METHOD_NAME" value="test_check_that_fuction_getItem_is_correct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="homework generics collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="homework generics collections" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FunctionsTest" />
+        <item itemvalue="JUnit.FunctionsTest.test_check_that_fuction_getItem_is_correct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdf6a44d-9431-46bd-b67e-3db674eb591d" name="Changes" comment="" />
+      <created>1678612542687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678612542687</updated>
+    </task>
+    <servers />
+  </component>
+</project>
