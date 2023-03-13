@@ -1,8 +1,8 @@
 package com.exercise1;
 
-public interface MyLimitedListable <T extends Number>{
+public interface MyLimitedListable <T>{
 
-    void addItem(Number item);
+    void addItem(T item);
     void removeFirstItem();
-    Number getItem(int index);
+    T getItem(int index);
 }
