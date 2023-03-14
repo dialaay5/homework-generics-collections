@@ -11,11 +11,4 @@ public class ImportantPerson extends Person{
         this.address = address;
     }
 
-    @Override
-    public String toString() {
-        return "ImportantPerson {" +
-                "super:[" + super.toString() + "] " +
-                ", address= " + address +'}';
-    }
-
 }
